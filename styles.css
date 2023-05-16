@@ -1,0 +1,40 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+   color: aqua;
+   font-size: 800%;
+   font-style: italic;
+   margin-top: 3%;
+   text-align: center;
+   margin-bottom: 20px;
+}
+.div1{
+    display: inline-block;
+    position: relative;
+    
+    left: 43%;
+    text-align: center;
+
+    
+}
+.div2{
+    display: inline-block;
+    position: relative;
+    left: 46%;
+
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    color: aqua;
+    text-align: center;
+}
